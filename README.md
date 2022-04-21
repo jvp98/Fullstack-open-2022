@@ -1,1 +1,1 @@
-# Fullstack-open-2022-kierros-0
+# Fullstack-open-2022
